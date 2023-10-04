@@ -26,14 +26,7 @@
 #showmore{
     display: none ;
 }
-/* #search-button{
-    width: 100px;
-    border: 0;
-    outline: 0;
-    border-radius: 5px;
-    display: flex;
-    justify-content: center;
-} */
+
  #search-input{
     display: flex; 
     /* align-items: center;
@@ -52,5 +45,6 @@
 h1{
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
 }
 
